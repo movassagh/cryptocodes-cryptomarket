@@ -43,6 +43,10 @@ npm install @cryptocodes/cryptomarket
 ```js
 import market from @cryptocodes/cryptomarket
 ```
+OR
+```js
+const market = require("@cryptocodes/cryptomarket")
+```
 
 <br/>
 
