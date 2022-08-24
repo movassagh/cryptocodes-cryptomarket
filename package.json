@@ -1,0 +1,30 @@
+{
+  "name": "@cryptocodes/cryptomarket",
+  "version": "1.0.1",
+  "description": "Provides the crypto Market Prices in different markets",
+  "author": "Mahdi Movassagh",
+  "license": "ISC",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "files": [
+    "/lib"
+  ],
+  "bugs": {
+    "url": "https://github.com/movassagh/cryptocodes-cryptomarket/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/movassagh/cryptocodes-cryptomarket.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Crypto",
+    "Market"
+  ],
+  "dependencies": {
+    "axios": "^0.27.2",
+    "typescript": "^4.7.4"
+  }
+}
