@@ -124,7 +124,7 @@ This function returns `Promise`
 Price of Coin `LTC` in Market `USDT`
 
 ```js
-const allPrices = market.getCoin("LTC", "USDT");
+const ltcPrices = await market.getCoin("LTC", "USDT");
 ```
 OR
 ```js
